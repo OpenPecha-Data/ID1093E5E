@@ -1,15 +1,16 @@
-id: opecha:P008051
+id: P008051
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4735
   title: རི་ཆོས་མཚམས་ཀྱི་ཞལ་གདམས།
-  volume:
+  author: ''
+  volumes:
     3ae369711521427281aac6ff3447319e:
       image_group_id: I3CN4737
       title: Volume 1 of ri chos mtshams kyi zhal gdams/
       volume_number: 1
       total_pages: 428
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རི་ཆོས་མཚམས་ཀྱི་ཞལ་གདམས།
   author: ''
